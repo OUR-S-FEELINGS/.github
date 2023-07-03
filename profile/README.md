@@ -54,7 +54,7 @@ Unless otherwise stated, all projects and code within the OUR'S FEELINGS organiz
 
 ---
 
-[![GitHub](https://img.shields.io/github/stars/oursfeelings?style=social)](https://github.com/our-s-feelings)
+[![GitHub](https://img.shields.io/github/stars/our-s-feelings?style=social)](https://github.com/our-s-feelings)
 [![Twitter Follow](https://img.shields.io/twitter/follow/oursfeelings?style=social)](https://twitter.com/oursfeelings)
 
 Add any additional badges, widgets, or icons that represent your organization's identity and the projects you work on.
