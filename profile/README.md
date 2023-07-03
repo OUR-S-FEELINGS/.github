@@ -42,8 +42,8 @@ As members of OUR'S FEELINGS, we strive to maintain a respectful and inclusive c
 
 If you have any questions, suggestions, or need assistance, you can reach out to us through one of the following channels:
 
-- **Email:** [contact@oursfeelings.org](mailto:contact@oursfeelings.org)
-- **Discord:** [OUR'S FEELINGS Community](https://discord.gg/oursfeelings)
+- **Email:** [contact@oursfeelings.org](mailto:contact@oursfeelings.org) (Doesn't exist :P if wanna email:[drasec.04@gmail.com](mailto:drasec.04@gmail.com))
+- **Discord:** [OUR'S FEELINGS Community](https://discord.gg/DwchqYHNNZ)
 - **Twitter:** [@oursfeelings](https://twitter.com/oursfeelings)
 
 Feel free to ask for help, share your ideas, or connect with other members of the community.
