@@ -50,7 +50,7 @@ Feel free to ask for help, share your ideas, or connect with other members of th
 
 ## License
 
-Unless otherwise stated, all projects and code within the OUR'S FEELINGS organization are released under the [MIT License](LICENSE.txt). You can refer to the individual repositories for specific license information.
+Unless otherwise stated, all projects and code within the OUR'S FEELINGS organization are released under the [DKR License](LICENSE.txt) (Dholkapur License). You can refer to the individual repositories for specific license information.
 
 ---
 
