@@ -36,7 +36,7 @@ We also recommend reviewing the `CONTRIBUTING.md` file in each repository for sp
 
 ## Code of Conduct
 
-As members of OUR'S FEELINGS, we strive to maintain a respectful and inclusive community. We expect all participants, contributors, and maintainers to abide by our [Code of Conduct](CODE_OF_CONDUCT.md) throughout their involvement with our organization. Please read it carefully and ensure that your actions align with our shared values.
+As members of OUR'S FEELINGS, we strive to maintain a respectful and inclusive community. We expect all participants, contributors, and maintainers to abide by our [Code of Conduct](profile/CODE_OF_CONDUCT.md) throughout their involvement with our organization. Please read it carefully and ensure that your actions align with our shared values.
 
 ## Contact
 
